@@ -14,3 +14,4 @@ Console.WriteLine($"Площадь: {(Math.Sqrt(p * (p - a) * (p - b) * (p - c))
 
 
 
+
