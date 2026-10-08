@@ -9,3 +9,8 @@ double p = (a + b + c) / 2;
 
 Console.WriteLine($"Периметр: {a + b + c}");
 Console.WriteLine($"Площадь: {(Math.Sqrt(p * (p - a) * (p - b) * (p - c))):F2}"); //изменения
+
+
+
+
+
